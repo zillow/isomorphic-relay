@@ -11,7 +11,7 @@
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "express-graphql": "^0.4.0",
-    "graphql": "^0.4.12",
+    "graphql": "^0.13.2",
     "graphql-relay": "^0.3.4",
     "isomorphic-relay": "file:../..",
     "react": "^15.0.1",
